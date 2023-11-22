@@ -1,0 +1,7 @@
+git init
+
+git status
+
+git add -A   staging process before push
+
+git commit -m "my work"
